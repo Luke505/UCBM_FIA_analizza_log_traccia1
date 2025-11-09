@@ -32,5 +32,5 @@ Estrarre le seguenti informazioni:
 Il rispetto di uno o più dei seguenti requisiti riceverà una valutazione particolarmente positiva:
 
 - gestione di eccezioni che possono verificarsi durante l'esecuzione
-- utilizzo della classe Tabella2D_RO per memorizzare la lista di log ed estrarre le informazioni richieste
+- utilizzo della classe `Tabella2D_RO` (nel file `utilities/griglia_di_liste_RO.py`) per memorizzare la lista di log ed estrarre le informazioni richieste
 
