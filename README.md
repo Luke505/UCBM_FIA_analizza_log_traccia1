@@ -21,11 +21,12 @@ Estrarre le seguenti informazioni:
 - per ogni utente:
   - la data e l'ora del primo accesso;
   - la data e l'ora dell'ultimo accesso;
+  - il numero totale di accessi.
 
 # Linee guida per lo sviluppo del codice
 
 - decidere la struttura dati più adatta a rappresentare le informazioni di uscita richieste tenendo anche conto che tali informazioni devono essere salavate in formato JSON;
-- il percorso e il nome del file di ingresso e di uscita non devono essere scritti nel codice, ma l'utente deve poterli fornire al momento di eseguire il programma; procedere analogamente per fornire al programma eventuali altre informazioni necessarie per la sua esecuzione; prevedere dei valori di default in modo da semplificare l'esecuzione di testi; valutare la modalità più conveniente per l'utente per fornire al programma tali informazioni;
+- il percorso e il nome del file di ingresso e di uscita non devono essere scritti nel codice, ma l'utente deve poterli fornire al momento di eseguire il programma; procedere analogamente per fornire al programma eventuali altre informazioni necessarie per la sua esecuzione; prevedere dei valori di default in modo da semplificare l'esecuzione di test; valutare la modalità più conveniente per l'utente per fornire al programma tali informazioni;
 - dividere opportunamente il codice in funzioni richiamate da un breve script; commentare tutte le funzioni introdotte descrivendo sinteticamente:
   - la loro funzione;
   - il ruolo di eventuali parametri;
