@@ -1,0 +1,7 @@
+# No external dependencies required for core functionality
+# Python 3.8+ standard library is sufficient
+
+# For development/testing (optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
